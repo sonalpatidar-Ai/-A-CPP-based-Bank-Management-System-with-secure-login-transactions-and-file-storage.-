@@ -59,7 +59,7 @@ Bank-Management-System
    
 👨‍💻 Author
 
-Karan Patel
+Sonal Patidar
 
 💡Passionate about C++ and building real-world applications.
 
