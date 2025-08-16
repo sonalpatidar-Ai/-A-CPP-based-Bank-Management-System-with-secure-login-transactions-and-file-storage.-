@@ -1,5 +1,7 @@
 # -A-CPP-based-Bank-Management-System-with-secure-login-transactions-and-file-storage.-
 This is a console-based Bank Management System built in C++. It demonstrates the use of Object-Oriented Programming (OOP), file handling, and vectors to simulate real-world banking operations.
+
+
 📊 Features
 
 1. Create a new bank account
@@ -14,9 +16,9 @@ This is a console-based Bank Management System built in C++. It demonstrates the
 
 🛠️ Tech Used
 
-Language: C++
+ 1. Language: C++
 
-Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
+ 2. Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
 
 
 🚀 How to Run
@@ -34,6 +36,7 @@ Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
 
       ./bank
       
+      
 📂 File Structure
 
 Bank-Management-System
@@ -44,6 +47,7 @@ Bank-Management-System
 
 │── *.txt # Account data files (auto-created)
 
+
 🔮 Future Improvements
 
 1. 🔐 Add ATM PIN verification system
@@ -51,6 +55,8 @@ Bank-Management-System
 3. 🏦 Support for multiple banks
 4. 📊 Export transaction history to CSV/Excel
 5. 🎨 GUI version using Qt/JavaFX
+
+   
 👨‍💻 Author
 
 Karan Patel
