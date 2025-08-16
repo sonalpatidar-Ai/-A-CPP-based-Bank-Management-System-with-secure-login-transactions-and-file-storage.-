@@ -10,10 +10,15 @@ This is a console-based Bank Management System built in C++. It demonstrates the
 6. Access full transaction history
 7. Data persistence using text files
 8. Colorful console interface for better UX
+
+
 🛠️ Tech Used
 
 Language: C++
+
 Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
+
+
 🚀 How to Run
 
 🔹 1. Clone this repository
@@ -28,6 +33,7 @@ Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
 🔹4.Run the executable
 
       ./bank
+      
 📂 File Structure
 
 Bank-Management-System
